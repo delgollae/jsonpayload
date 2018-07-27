@@ -1,0 +1,272 @@
+[
+{
+    "isDeleted": false,
+    "employeeId": 15,
+    "tenantId": 1,
+    "employeeName": "test new docs 1",
+    "employeeAlias": "testing docts 1",
+    "isActive": true,
+    "isUpdateRequired": false,
+    "gender": "M",
+    "maritalStatus": "S",
+    "dateOfBirth": "2018-06-06",
+    "nationality": 1,
+    "employeeTitle": 4,
+    "employeeType": 1,
+    "joinDate": "2018-06-05",
+    "mobilePhone": 1221424244,
+    "personalEmail": "sacsa@",
+    "companyEmail": "sda.lk",
+    "country": 1,
+    "city": 1,
+    "isSchedulable": false,
+    "doctor": {
+        "isDeleted": false,
+        "employeeId": 15,
+        "isIncomeShared": false,
+        "isVisibleInAppointment": true,
+        "isVisitingDoctor": false,
+        "isAllowedToPrescribe": true,
+        "doctorInformation": "qe1re2r",
+        "profileInformation": "wfwfwfw",
+        "doctorCasesOrOperations": "wfwfwfwf",
+        "doctorsIncentive": {
+            "isDeleted": false,
+            "id": 126
+        },
+        "doctorsPreferredTimings": {
+            "isDeleted": false,
+            "id": 128,
+            "isAllowWaitlist": false,
+            "isRegistered": false,
+            "slotDurationInMinutes": 1
+        },
+        "doctorsLicenseExpiryReminder": {
+            "isDeleted": false,
+            "id": 127
+        },
+        "doctorsAssignedClinics": [
+            {
+                "isDeleted": false,
+                "doctorId": 15,
+                "clinicId": 4,
+                "isVisibleInAppointment": false,
+                "isAllowedForSickLeave": true,
+                "isAllowedToPrescribe": false
+            },
+            {
+                "isDeleted": false,
+                "doctorId": 15,
+                "clinicId": 5,
+                "isVisibleInAppointment": false,
+                "isAllowedForSickLeave": true,
+                "isAllowedToPrescribe": false
+            }
+        ],
+        "doctorsAssignedHospital": [],
+        "doctorsEducations": [],
+        "doctorsLicenses": [],
+        "doctorsPreferredLanguages": [
+            {
+                "isDeleted": false,
+                "doctorId": 15,
+                "languageCode": "ar",
+                "doctorName": "erere",
+                "doctorAlias": "rererer",
+                "doctorInfo": "rtrt",
+                "profileInfo": "rrtrt"
+            }
+        ],
+        "doctorsQualifications": [],
+        "doctorsSpecialization": [
+            {
+                "isDeleted": false,
+                "doctorId": 15,
+                "specializationId": 20,
+                "isActive": true
+            }
+        ]
+    }
+    
+},
+{
+    "isDeleted": false,
+    "employeeId": 15,
+    "tenantId": 1,
+    "employeeName": "test new docs 2",
+    "employeeAlias": "testing docts 2",
+    "isActive": true,
+    "isUpdateRequired": false,
+    "gender": "M",
+    "maritalStatus": "S",
+    "dateOfBirth": "2018-06-06",
+    "nationality": 1,
+    "employeeTitle": 4,
+    "employeeType": 1,
+    "joinDate": "2018-06-05",
+    "mobilePhone": 1221424244,
+    "personalEmail": "sacsa@",
+    "companyEmail": "sda.lk",
+    "country": 1,
+    "city": 1,
+    "isSchedulable": false,
+    "doctor": {
+        "isDeleted": false,
+        "employeeId": 15,
+        "isIncomeShared": false,
+        "isVisibleInAppointment": true,
+        "isVisitingDoctor": false,
+        "isAllowedToPrescribe": true,
+        "doctorInformation": "qe1re2r",
+        "profileInformation": "wfwfwfw",
+        "doctorCasesOrOperations": "wfwfwfwf",
+        "doctorsIncentive": {
+            "isDeleted": false,
+            "id": 126
+        },
+        "doctorsPreferredTimings": {
+            "isDeleted": false,
+            "id": 128,
+            "isAllowWaitlist": false,
+            "isRegistered": false,
+            "slotDurationInMinutes": 1
+        },
+        "doctorsLicenseExpiryReminder": {
+            "isDeleted": false,
+            "id": 127
+        },
+        "doctorsAssignedClinics": [
+            {
+                "isDeleted": false,
+                "doctorId": 15,
+                "clinicId": 4,
+                "isVisibleInAppointment": false,
+                "isAllowedForSickLeave": true,
+                "isAllowedToPrescribe": false
+            },
+            {
+                "isDeleted": false,
+                "doctorId": 15,
+                "clinicId": 5,
+                "isVisibleInAppointment": false,
+                "isAllowedForSickLeave": true,
+                "isAllowedToPrescribe": false
+            }
+        ],
+        "doctorsAssignedHospital": [],
+        "doctorsEducations": [],
+        "doctorsLicenses": [],
+        "doctorsPreferredLanguages": [
+            {
+                "isDeleted": false,
+                "doctorId": 15,
+                "languageCode": "ar",
+                "doctorName": "erere",
+                "doctorAlias": "rererer",
+                "doctorInfo": "rtrt",
+                "profileInfo": "rrtrt"
+            }
+        ],
+        "doctorsQualifications": [],
+        "doctorsSpecialization": [
+            {
+                "isDeleted": false,
+                "doctorId": 15,
+                "specializationId": 20,
+                "isActive": true
+            }
+        ]
+    }
+    
+},
+{
+    "isDeleted": false,
+    "employeeId": 15,
+    "tenantId": 1,
+    "employeeName": "test new docs 3",
+    "employeeAlias": "testing docts 3",
+    "isActive": true,
+    "isUpdateRequired": false,
+    "gender": "M",
+    "maritalStatus": "S",
+    "dateOfBirth": "2018-06-06",
+    "nationality": 1,
+    "employeeTitle": 4,
+    "employeeType": 1,
+    "joinDate": "2018-06-05",
+    "mobilePhone": 1221424244,
+    "personalEmail": "sacsa@",
+    "companyEmail": "sda.lk",
+    "country": 1,
+    "city": 1,
+    "isSchedulable": false,
+    "doctor": {
+        "isDeleted": false,
+        "employeeId": 15,
+        "isIncomeShared": false,
+        "isVisibleInAppointment": true,
+        "isVisitingDoctor": false,
+        "isAllowedToPrescribe": true,
+        "doctorInformation": "qe1re2r",
+        "profileInformation": "wfwfwfw",
+        "doctorCasesOrOperations": "wfwfwfwf",
+        "doctorsIncentive": {
+            "isDeleted": false,
+            "id": 126
+        },
+        "doctorsPreferredTimings": {
+            "isDeleted": false,
+            "id": 128,
+            "isAllowWaitlist": false,
+            "isRegistered": false,
+            "slotDurationInMinutes": 1
+        },
+        "doctorsLicenseExpiryReminder": {
+            "isDeleted": false,
+            "id": 127
+        },
+        "doctorsAssignedClinics": [
+            {
+                "isDeleted": false,
+                "doctorId": 15,
+                "clinicId": 4,
+                "isVisibleInAppointment": false,
+                "isAllowedForSickLeave": true,
+                "isAllowedToPrescribe": false
+            },
+            {
+                "isDeleted": false,
+                "doctorId": 15,
+                "clinicId": 5,
+                "isVisibleInAppointment": false,
+                "isAllowedForSickLeave": true,
+                "isAllowedToPrescribe": false
+            }
+        ],
+        "doctorsAssignedHospital": [],
+        "doctorsEducations": [],
+        "doctorsLicenses": [],
+        "doctorsPreferredLanguages": [
+            {
+                "isDeleted": false,
+                "doctorId": 15,
+                "languageCode": "ar",
+                "doctorName": "erere",
+                "doctorAlias": "rererer",
+                "doctorInfo": "rtrt",
+                "profileInfo": "rrtrt"
+            }
+        ],
+        "doctorsQualifications": [],
+        "doctorsSpecialization": [
+            {
+                "isDeleted": false,
+                "doctorId": 15,
+                "specializationId": 20,
+                "isActive": true
+            }
+        ]
+    }
+    
+}
+]
